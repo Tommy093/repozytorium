@@ -11,7 +11,7 @@ public class Klasa {
         this.a = a;
     }
 
-    public int getA() {
+    public int pobierzA() {
         return a;
     }
 

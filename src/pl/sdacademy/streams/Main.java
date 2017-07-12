@@ -6,6 +6,10 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
+
+        System.out.println("Hello world");
+
+
         List<String> stringList = new ArrayList<>();
         stringList.add("abcd");
         stringList.add("rerg");
